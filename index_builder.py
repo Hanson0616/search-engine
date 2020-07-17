@@ -1,6 +1,3 @@
-# UCINet: zhiched ID:42587819
-# UCINet: Hongshac ID:37418699
-
 from pathlib import Path
 import json
 from bs4 import BeautifulSoup

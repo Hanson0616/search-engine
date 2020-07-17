@@ -1,6 +1,3 @@
-# UCINet: zhiched ID:42587819
-# UCINet: Hongshac ID:37418699
-
 import re
 import json
 from tkinter import *
